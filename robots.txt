@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://svostrikovdsgnr.github.io/sitemap.xml
